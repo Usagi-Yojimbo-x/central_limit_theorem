@@ -37,7 +37,7 @@ If that probability (the **p-value**) is **very low** (e.g., < 0.05), we reje
 
 To visualize this, here’s a simulation of sample means under the assumption that $H_0$ is true (i.e., the true mean is 95mg). The red line shows how unusual a sample mean of 90mg would be:
 
-![Caffeine P-value Hist.png](/Users/zwehtetaung/Desktop/Project%20BAPE/Medium/central-limit-theorm/Images/Caffeine%20P-value%20Hist.png)
+![Caffeine P-value Hist.png](Images/Caffeine P-value Hist.png)
 
 #### 🔎 What Does a Low P-Value Really Mean?
 
@@ -80,7 +80,7 @@ This matters a lot, because:
 Without CLT, our tools for inference would fall apart.  
 Watch the animation below to see how the right skewed distribution transforms into normal as the sample size(n) increases:
 
-![clt_animation.gif](/Users/zwehtetaung/Desktop/Project%20BAPE/Medium/central-limit-theorm/Images/clt_animation.gif)
+![clt_animation.gif](Images/clt_animation.gif)
 
 ---
 
